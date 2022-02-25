@@ -1,6 +1,8 @@
 ### Bienvenue sur mon GitHub!!! 
 
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGregOs55">   <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin&url=https://www.linkedin.com/in/gregory-masson-3bb6821b8/">
+[![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/GregOs55)
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/gregory-masson-3bb6821b8/)
+[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:gmasson00@gmail.com)
 
 [![Gregoss54's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoss54&show_icons=true&theme=radical)
 
